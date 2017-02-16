@@ -1,0 +1,28 @@
+Forestry Policy 1:
+	Average Harvest(per year): 125,420.52 	Harvest Variance: 10,064,577,991.05
+Population Information:
+ 	Average One years:   234,486.22 		 Variance: 24,684,578,331.85
+ 	Average Two years:   187,211.02 		 Variance: 21,949,892,397.82
+ 	Average Three years: 157,019.86 		 Variance: 15,286,898,337.28
+ 	Average Four years:  129,710.50 		 Variance: 9,973,685,788.77
+Forestry Policy 2:
+	Average Harvest(per year): 116,226.26 	Harvest Variance: 13,498,880,608.55
+Population Information:
+ 	Average One years:   241,628.82 		 Variance: 17,913,424,405.99
+ 	Average Two years:   185,672.66 		 Variance: 17,378,388,107.02
+ 	Average Three years: 150,622.12 		 Variance: 15,199,082,060.35
+ 	Average Four years:  122,992.38 		 Variance: 13,153,500,045.04
+Forestry Policy 3:
+	Average Harvest(per year): 54,413.78 	Harvest Variance: 2,284,231,383.29
+Population Information:
+ 	Average One years:   258,032.60 		 Variance: 22,826,644,938.08
+ 	Average Two years:   199,746.66 		 Variance: 20,227,577,772.70
+ 	Average Three years: 157,662.90 		 Variance: 15,136,380,593.33
+ 	Average Four years:  58,746.98 		 Variance: 2,244,993,716.66
+Forestry Policy 4:
+	Average Harvest(per year): 114,044.28 	Harvest Variance: 19,438,431,996.00
+Population Information:
+ 	Average One years:   226,145.12 		 Variance: 57,530,417,726.71
+ 	Average Two years:   162,148.18 		 Variance: 40,774,019,781.47
+ 	Average Three years: 132,887.74 		 Variance: 25,912,088,672.79
+ 	Average Four years:  115,773.98 		 Variance: 19,947,716,547.50
